@@ -10,3 +10,4 @@ todo
 
 ## Listy zadan
 - [lista 2](https://hackmd.io/@ZDNX8BeERvif7pTrDSVEgw/SklkKtN1n)
+- [lista 3](https://hackmd.io/gcl_d8xnRXGkO0BfcUpbvQ)
